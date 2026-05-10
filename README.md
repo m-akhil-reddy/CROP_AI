@@ -169,6 +169,15 @@ http://localhost:5000
 - [ ] Email notifications for claim updates
 - [ ] Role-based access control with multiple officer levels
 
+
+---
+
+## 👥 Developers
+
+- **M. Akhil Reddy** — [akhilreddymogilla@gmail.com](mailto:akhilreddymogilla@gmail.com)
+- **K. Sohan Sunny** — [sohansunny04@gmail.com](mailto:sohansunny04@gmail.com)
+- **J. Ram Kishorey** — [ramkishorey005@gmail.com](mailto:ramkishorey005@gmail.com)
+
 ---
 
 ## 📜 License

@@ -1,0 +1,6 @@
+# This file intentionally left empty.
+# Place your trained model file here:
+#   crop_damage_model.h5
+#
+# The system will automatically detect and load it on startup.
+# If no model is found, the enhanced simulation engine is used.

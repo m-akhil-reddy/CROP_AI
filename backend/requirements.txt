@@ -1,0 +1,28 @@
+# Core Flask
+flask
+flask-cors
+python-dotenv
+
+# ML / AI Pipeline
+tensorflow
+opencv-python
+pillow
+numpy
+pandas
+scikit-learn
+
+# Visualization (training only)
+matplotlib
+seaborn
+
+# Fraud Detection
+imagehash
+
+# Data Augmentation (training only)
+albumentations
+
+# Weather API / HTTP
+requests
+
+# Supabase
+supabase

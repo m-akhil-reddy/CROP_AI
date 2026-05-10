@@ -1,0 +1,28 @@
+# Environment variables (Sensitive information)
+.env
+
+# Python virtual environment
+backend/venv/
+backend/env/
+venv/
+env/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# User uploads (Temporary data)
+uploads/
+
+# IDE/System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ML Models & Training Data (large files)
+backend/ml/saved_models/*.h5
+backend/ml/saved_models/*.keras
+backend/ml/saved_models/image_hash_db.json
+backend/ml/dataset/*/
+backend/ml/training_results/
